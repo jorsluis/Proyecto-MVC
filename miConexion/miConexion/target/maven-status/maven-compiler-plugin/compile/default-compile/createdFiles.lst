@@ -1,0 +1,6 @@
+com\claseDiezJunio\miConexion\dao\PacienteDao.class
+com\claseDiezJunio\miConexion\models\Paciente.class
+com\claseDiezJunio\miConexion\MiConexionApplication.class
+com\claseDiezJunio\miConexion\servicio\Servicios.class
+com\claseDiezJunio\miConexion\servicio\PacienteServiceImplement.class
+com\claseDiezJunio\miConexion\controller\PacienteController.class
